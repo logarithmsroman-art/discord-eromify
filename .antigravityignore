@@ -1,0 +1,9 @@
+node_modules/
+.git/
+.next/
+dist/
+build/
+*copy/
+ai-gen-img/
+khadijah/
+voice-changer-app/
